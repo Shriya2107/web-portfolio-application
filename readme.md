@@ -1,11 +1,11 @@
-Getting Started with Create React App
+## Getting Started with Create React App
 
 As the name suggests it is an web based protfolio application 
 made in reactjs. This project was bootstrapped with Create React App.
 Available Scripts
 
 
-In the project directory, you can run:
+## In the project directory, you can run:
 npm start
 
 Runs the app in the development mode.
